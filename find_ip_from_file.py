@@ -18,8 +18,10 @@ if regex is not None:
             print(f"{ip} not found")
             break
 
-#============================= Sample Script Output ===========================#
+            
 """
+#============================= Sample Script Output ===========================#
+
 ./find_ip1.py ip.txt
 IP: 10.1.81.1
 10.1.81.1 is in the file
